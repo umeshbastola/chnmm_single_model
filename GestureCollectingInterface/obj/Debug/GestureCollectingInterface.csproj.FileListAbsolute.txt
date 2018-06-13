@@ -1,2 +1,0 @@
-/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureCollectingInterface/obj/Debug/GestureCollectingInterface.csprojResolveAssemblyReference.cache
-/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureCollectingInterface/obj/Debug/GestureCollectingInterface.csproj.CoreCompileInputs.cache

@@ -1,1 +1,0 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="TraceImage.aspx.cs" Inherits="GestureCollectingInterface.TraceImage" %>
