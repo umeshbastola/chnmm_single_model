@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<Gesture Name ='12_1_5' Subject = 'test'  Speed = 'MEDIUM' NumPts = '72' InputType='finger' >
+
+<Stroke index = '5' >
+<Point X='665' Y='269' T='64' />
+<Point X='664' Y='269' T='87' />
+<Point X='664' Y='269' T='97' />
+<Point X='653' Y='279' T='124' />
+<Point X='647' Y='285' T='136' />
+<Point X='639' Y='295' T='147' />
+<Point X='615' Y='314' T='160' />
+<Point X='604' Y='323' T='174' />
+<Point X='586' Y='336' T='190' />
+<Point X='568' Y='348' T='204' />
+<Point X='549' Y='363' T='215' />
+<Point X='530' Y='377' T='225' />
+</Stroke>
+<Stroke index = '4' >
+<Point X='569' Y='82' T='51' />
+<Point X='568' Y='82' T='75' />
+<Point X='568' Y='83' T='86' />
+<Point X='565' Y='87' T='96' />
+<Point X='559' Y='103' T='124' />
+<Point X='556' Y='113' T='135' />
+<Point X='550' Y='127' T='146' />
+<Point X='536' Y='156' T='160' />
+<Point X='527' Y='171' T='173' />
+<Point X='515' Y='190' T='188' />
+<Point X='502' Y='210' T='203' />
+<Point X='488' Y='231' T='213' />
+<Point X='475' Y='254' T='225' />
+</Stroke>
+<Stroke index = '2' >
+<Point X='204' Y='63' T='43' />
+<Point X='204' Y='63' T='48' />
+<Point X='203' Y='63' T='62' />
+<Point X='202' Y='63' T='74' />
+<Point X='201' Y='65' T='85' />
+<Point X='199' Y='69' T='94' />
+<Point X='199' Y='82' T='123' />
+<Point X='200' Y='92' T='133' />
+<Point X='202' Y='101' T='146' />
+<Point X='204' Y='125' T='159' />
+<Point X='205' Y='140' T='172' />
+<Point X='205' Y='156' T='187' />
+<Point X='205' Y='172' T='202' />
+<Point X='206' Y='190' T='212' />
+<Point X='206' Y='207' T='225' />
+</Stroke>
+<Stroke index = '3' >
+<Point X='402' Y='2' T='23' />
+<Point X='401' Y='1' T='39' />
+<Point X='401' Y='1' T='48' />
+<Point X='400' Y='0' T='60' />
+<Point X='398' Y='0' T='73' />
+<Point X='396' Y='1' T='83' />
+<Point X='392' Y='4' T='93' />
+<Point X='382' Y='19' T='122' />
+<Point X='376' Y='30' T='132' />
+<Point X='372' Y='42' T='144' />
+<Point X='362' Y='72' T='158' />
+<Point X='356' Y='86' T='171' />
+<Point X='349' Y='106' T='187' />
+<Point X='342' Y='126' T='201' />
+<Point X='335' Y='148' T='210' />
+<Point X='330' Y='173' T='223' />
+</Stroke>
+<Stroke index = '1' >
+<Point X='0' Y='639' T='0' />
+<Point X='9' Y='638' T='36' />
+<Point X='15' Y='637' T='46' />
+<Point X='21' Y='635' T='58' />
+<Point X='27' Y='632' T='70' />
+<Point X='33' Y='628' T='82' />
+<Point X='40' Y='624' T='92' />
+<Point X='52' Y='616' T='121' />
+<Point X='57' Y='612' T='131' />
+<Point X='64' Y='607' T='143' />
+<Point X='81' Y='596' T='157' />
+<Point X='94' Y='586' T='169' />
+<Point X='107' Y='577' T='185' />
+<Point X='123' Y='564' T='199' />
+<Point X='141' Y='551' T='208' />
+<Point X='159' Y='538' T='223' />
+</Stroke>
+
+</Gesture>

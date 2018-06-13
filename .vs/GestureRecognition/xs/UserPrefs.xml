@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A2E9394C-E6FC-454F-8DA1-9AFEC78FA936}|Default">
+  <MonoDevelop.Ide.ItemProperties.GestureRecognitionTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GestureRecognitionLib/CHnMM/GestureModelCreator.cs">
+    <Files>
+      <File FileName="MultiStrokeGestureRecognitionLib/Program.cs" Line="169" Column="66" />
+      <File FileName="GestureRecognitionLib/CHnMM/CHnMMRecognitionSystem.cs" Line="180" Column="13" />
+      <File FileName="ModelLib/CHnMModel.cs" Line="192" Column="32" />
+      <File FileName="GestureRecognitionLib/CHnMM/TrajectoryModel.cs" Line="43" Column="13" />
+      <File FileName="GestureRecognitionLib/CHnMM/StrokeMap.cs" Line="208" Column="39" />
+      <File FileName="GestureRecognitionLib/CHnMM/GestureModelCreator.cs" Line="213" Column="46" />
+      <File FileName="GestureRecognitionLib/CHnMM/DistributionEstimators.cs" Line="58" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../GestureRecognitionLib/CHnMM/StrokeMap.cs" line="239" offsetX="1029" offsetY="3570" expression="gesture_equidistant" liveUpdate="False" />
+    <Watch file="../../../GestureRecognitionLib/CHnMM/GestureModelCreator.cs" line="235" offsetX="748" offsetY="3510" expression="transition" liveUpdate="True" />
+    <Watch file="../../../GestureRecognitionLib/CHnMM/GestureModelCreator.cs" line="232" offsetX="451" offsetY="3465" expression="transData" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>GestureCollectingInterface/GestureCollectingInterface.csproj</String>
+  </DisabledProjects>
+</Properties>

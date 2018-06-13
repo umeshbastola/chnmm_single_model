@@ -1,0 +1,28 @@
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/bin/Debug/ModelLib.dll.config
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/bin/Debug/ModelLib.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/bin/Debug/ModelLib.pdb
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/bin/Debug/GestureDatabase.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/bin/Debug/MathNet.Numerics.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/bin/Debug/EntityFramework.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/bin/Debug/GestureDatabase.pdb
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/bin/Debug/GestureDatabase.dll.config
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/bin/Debug/MathNet.Numerics.xml
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/bin/Debug/EntityFramework.xml
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/obj/Debug/CHnMM.csprojResolveAssemblyReference.cache
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/obj/Debug/CHnMM.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/obj/Debug/ModelLib.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/ModelLib/obj/Debug/ModelLib.pdb
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/bin/Debug/ModelLib.dll.config
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/bin/Debug/ModelLib.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/bin/Debug/ModelLib.pdb
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/bin/Debug/GestureDatabase.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/bin/Debug/MathNet.Numerics.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/bin/Debug/EntityFramework.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/bin/Debug/GestureDatabase.pdb
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/bin/Debug/GestureDatabase.dll.config
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/bin/Debug/MathNet.Numerics.xml
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/bin/Debug/EntityFramework.xml
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/obj/Debug/CHnMM.csprojResolveAssemblyReference.cache
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/obj/Debug/CHnMM.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/obj/Debug/ModelLib.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/ModelLib/obj/Debug/ModelLib.pdb

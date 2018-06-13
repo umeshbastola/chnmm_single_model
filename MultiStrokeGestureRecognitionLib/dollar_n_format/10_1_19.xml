@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<Gesture Name ='10_1_19' Subject = 'test'  Speed = 'MEDIUM' NumPts = '51' InputType='finger' >
+
+<Stroke index = '3' >
+<Point X='256' Y='0' T='75' />
+<Point X='254' Y='2' T='84' />
+<Point X='251' Y='9' T='93' />
+<Point X='247' Y='17' T='110' />
+<Point X='244' Y='27' T='121' />
+<Point X='240' Y='50' T='141' />
+<Point X='238' Y='63' T='157' />
+<Point X='236' Y='79' T='171' />
+</Stroke>
+<Stroke index = '5' >
+<Point X='579' Y='135' T='29' />
+<Point X='579' Y='135' T='41' />
+<Point X='579' Y='136' T='55' />
+<Point X='579' Y='140' T='71' />
+<Point X='577' Y='152' T='82' />
+<Point X='574' Y='161' T='91' />
+<Point X='570' Y='167' T='108' />
+<Point X='562' Y='178' T='120' />
+<Point X='548' Y='198' T='138' />
+<Point X='540' Y='208' T='156' />
+</Stroke>
+<Stroke index = '4' >
+<Point X='466' Y='27' T='0' />
+<Point X='465' Y='27' T='38' />
+<Point X='465' Y='28' T='54' />
+<Point X='464' Y='30' T='69' />
+<Point X='460' Y='37' T='78' />
+<Point X='457' Y='42' T='88' />
+<Point X='453' Y='50' T='105' />
+<Point X='448' Y='58' T='118' />
+<Point X='435' Y='79' T='136' />
+<Point X='428' Y='91' T='153' />
+<Point X='417' Y='105' T='168' />
+</Stroke>
+<Stroke index = '2' >
+<Point X='82' Y='136' T='34' />
+<Point X='82' Y='135' T='42' />
+<Point X='81' Y='135' T='55' />
+<Point X='81' Y='135' T='72' />
+<Point X='81' Y='141' T='83' />
+<Point X='82' Y='146' T='92' />
+<Point X='85' Y='155' T='109' />
+<Point X='87' Y='163' T='121' />
+<Point X='94' Y='187' T='139' />
+<Point X='99' Y='203' T='156' />
+<Point X='102' Y='216' T='170' />
+</Stroke>
+<Stroke index = '1' >
+<Point X='0' Y='613' T='23' />
+<Point X='0' Y='612' T='39' />
+<Point X='0' Y='612' T='55' />
+<Point X='0' Y='611' T='70' />
+<Point X='2' Y='604' T='80' />
+<Point X='5' Y='597' T='90' />
+<Point X='10' Y='590' T='106' />
+<Point X='15' Y='581' T='119' />
+<Point X='27' Y='563' T='137' />
+<Point X='35' Y='552' T='154' />
+<Point X='43' Y='540' T='169' />
+</Stroke>
+
+</Gesture>

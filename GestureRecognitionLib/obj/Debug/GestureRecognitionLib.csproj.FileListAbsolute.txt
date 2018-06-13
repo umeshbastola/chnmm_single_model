@@ -1,0 +1,26 @@
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/bin/Debug/GestureRecognitionLib.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/bin/Debug/GestureRecognitionLib.pdb
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/bin/Debug/MathNet.Numerics.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/bin/Debug/ModelLib.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/bin/Debug/NDtw.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/bin/Debug/WobbrockLib.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/bin/Debug/ModelLib.pdb
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/bin/Debug/ModelLib.dll.config
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/bin/Debug/MathNet.Numerics.xml
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/obj/Debug/GestureRecognitionLib.csprojResolveAssemblyReference.cache
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/obj/Debug/GestureRecognitionLib.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/obj/Debug/GestureRecognitionLib.dll
+/Users/macbook/Desktop/CHnMM_TrajectoryRecognition/GestureRecognitionLib/obj/Debug/GestureRecognitionLib.pdb
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/bin/Debug/GestureRecognitionLib.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/bin/Debug/GestureRecognitionLib.pdb
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/bin/Debug/MathNet.Numerics.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/bin/Debug/ModelLib.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/bin/Debug/NDtw.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/bin/Debug/WobbrockLib.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/bin/Debug/ModelLib.pdb
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/bin/Debug/ModelLib.dll.config
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/bin/Debug/MathNet.Numerics.xml
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/obj/Debug/GestureRecognitionLib.csprojResolveAssemblyReference.cache
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/obj/Debug/GestureRecognitionLib.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/obj/Debug/GestureRecognitionLib.dll
+/Users/macbook/Desktop/Multi_stroke CHNMM/GestureRecognitionLib/obj/Debug/GestureRecognitionLib.pdb
