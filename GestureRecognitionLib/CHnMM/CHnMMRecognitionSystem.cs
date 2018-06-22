@@ -187,6 +187,7 @@ namespace GestureRecognitionLib.CHnMM
             var similarity = targetGesture.validateGestureTrace(trace);
             return similarity;
         }
+
         public bool authenticateUser(string userName, GestureTrace trace, out TrajectoryModel.ReasonForFail failReason)
         {
             var targetGesture = knownGestures[userName];
@@ -209,6 +210,32 @@ namespace GestureRecognitionLib.CHnMM
             }
             return result;
 
+        }
+
+        public int checkFeasibility(int prev_length, BaseTrajectory candidate, int nArea_count){
+            var length = 0;
+            foreach(var targetGesture in knownGestures){
+                var sim_length = targetGesture.Value.getTrace_match(candidate);
+                if (sim_length > nArea_count && (sim_length / nArea_count)  > prev_length)
+                {
+                    length = sim_length / nArea_count;
+                    break;
+                }
+            }
+            return length;
+        }
+
+        public int checkMultiStrokeFeasibility(string name, BaseTrajectory candidate, int nArea_count)
+        {
+            var length = 0;
+            var targetGesture = knownGestures[name];
+                var sim_length = targetGesture.getTrace_match(candidate);
+                if (sim_length > nArea_count)
+                {
+                    length = sim_length / nArea_count;
+                }
+
+            return length;
         }
 
         public string recognizeGesture(BaseTrajectory trace)

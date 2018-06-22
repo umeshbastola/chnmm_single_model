@@ -209,13 +209,24 @@ namespace GestureRecognitionLib.CHnMM
 
             foreach (var symTrace in symbolTraces)
             {
-                var symTrace_clean = symTrace.Where(w => w.Symbol != "GestureStart").ToArray();
-                var prevT = symTrace[0].Time;
-                for (int i = 0; i < symTrace_clean.Length;i++ )
+                if (symTrace != null)
                 {
-                        var dT = (int)(symTrace_clean[i].Time - prevT);
-                        prevT = symTrace_clean[i].Time;
-                        transitionDatas[i].addData(dT);;
+                    var has_empty = symTrace.Where(w => w == null).ToArray();
+                    if (has_empty.Length == 0)
+                    {
+                        var symTrace_clean = symTrace.Where(w => w.Symbol != "GestureStart").ToArray();
+                        var prevT = symTrace[0].Time;
+                        for (int i = 0; i < symTrace_clean.Length; i++)
+                        {
+                            var dT = (int)(symTrace_clean[i].Time - prevT);
+                            prevT = symTrace_clean[i].Time;
+                            transitionDatas[i].addData(dT); ;
+                        }
+                    }
+                    else
+                    {
+                        //handle the empty datas here
+                    }
                 }
             }
 

@@ -412,7 +412,7 @@ namespace GestureRecognitionLib.CHnMM
 
         public override Observation[] getSymbolTrace(BaseTrajectory s)
         {
-            int current_stroke = 0;
+            int current_stroke = s.TrajectoryPoints.First().StrokeNum;
             var accumulate = new List<TrajectoryPoint>();
             var gesture_AreaPoints = new List<TrajectoryPoint[]>();
             foreach (var point in s.TrajectoryPoints)
@@ -426,18 +426,17 @@ namespace GestureRecognitionLib.CHnMM
                     var trajectory = new LinearInterpolation(accumulate.ToArray());
                     gesture_AreaPoints.Add(LinearInterpolation.getEquidistantPoints(trajectory, nAreas));
                     accumulate.Clear();
-                    current_stroke++;
+                    current_stroke = point.StrokeNum;
                 }
             }
             gesture_AreaPoints.Add(LinearInterpolation.getEquidistantPoints(new LinearInterpolation(accumulate.ToArray()), nAreas));
-            current_stroke++;
 
-            var symbolTrace = new Observation[Areas.Length + current_stroke];
+            var symbolTrace = new Observation[Areas.Length + gesture_AreaPoints.Count];
             int counter = 0;
             int stroke_counter = 0;
             foreach (var fStroke in gesture_AreaPoints)
             {
-                var Areas_fraction = Areas.Skip(stroke_counter * fStroke.Length).Take(10);
+                var Areas_fraction = Areas.Skip(stroke_counter * fStroke.Length).Take(nAreas);
                 var query = fStroke.Zip(Areas_fraction, (p, a) =>
                 {
                     var sym = a.CreateSymbol(p);

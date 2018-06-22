@@ -64,7 +64,7 @@ namespace GestureRecognitionLib.CHnMM
         public DiscreteCircle(int ID, double x, double y, double radius, double toleranceRadius, double hitProbability)
         {
             //Console.WriteLine(x + "---" + y + "----" + radius + "-----" + toleranceRadius+"-----" + hitProbability);
-            Console.WriteLine("["+ x + "," + y + "," + radius + "," + toleranceRadius+ "],");
+            //Console.WriteLine("["+ x + "," + y + "," + radius + "," + toleranceRadius+ "],");
             this.ID = ID;
             X = x;
             Y = y;

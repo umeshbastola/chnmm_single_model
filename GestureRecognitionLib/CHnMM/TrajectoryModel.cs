@@ -52,6 +52,22 @@ namespace GestureRecognitionLib.CHnMM
             return eval /*/ model.MaxEvaluation*/;
         }
 
+        public int getTrace_match(BaseTrajectory trace)
+        {
+            var O = strokeMap.getSymbolTrace(trace);
+            int last_nonZero = 0;
+            for (int i = 0; i < O.Length; i++)
+            {
+                if (O[i] == null)
+                {
+                    return i;
+                }
+                last_nonZero = i+1;
+
+            }
+            return last_nonZero;
+        }
+
         public enum ReasonForFail
         {
             NoFail,
